@@ -46,6 +46,16 @@ echo $this->size->convert(Size::MB, Size::TB, '9500');
 
 None
 
+## Support the development
+
+**Do you like this project? Support it by donating**
+
+<a href="https://www.buymeacoffee.com/ravjanisz">
+
+![alt Buy me a coffee](https://raw.githubusercontent.com/ravjanisz/imagecrypt/master/docs/assets/bmc.png)
+
+</a>
+
 ## License
 
 readablesize is licensed under the MIT License - see the LICENSE file for details
