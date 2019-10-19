@@ -52,7 +52,7 @@ None
 
 <a href="https://www.buymeacoffee.com/ravjanisz">
 
-![alt Buy me a coffee](https://raw.githubusercontent.com/ravjanisz/imagecrypt/master/docs/assets/bmc.png)
+![alt Buy me a coffee](https://raw.githubusercontent.com/ravjanisz/readablesize/master/docs/assets/bmc.png)
 
 </a>
 
